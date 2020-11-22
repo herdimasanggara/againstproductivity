@@ -1,0 +1,161 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #aaa097;
+  position: fixed;
+}
+
+button {
+  border: 0;
+  background: black;
+  color: white;
+  cursor: pointer;
+  z-index: 10;
+  position: fixed;
+}
+
+.canvas {
+  padding: 0;
+  margin: 0;
+  position: fixed;
+}
+
+.frustration {
+  border: 0;
+  background: black;
+  color: white;
+  font-size: 50px;
+  cursor: pointer;
+  z-index: 10;
+  position: fixed;
+}
+
+.a {
+  background: rgba(170, 160, 151, 0);
+  color: rgba(170, 160, 151, 1);
+  border-radius: 50%;
+  transition-property: background, border-radius;
+  transition-duration: 0.5s, 0.5s;
+  transition-timing-function: ease-in-out;
+  height: 300px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 40px;
+  padding: 25px;
+  cursor: pointer;
+  position: fixed;
+}
+
+.a:hover {
+  background: lightgray;
+  border-radius: 50%;
+  filter: blur(1.5rem);
+}
+
+.b {
+  background: rgba(170, 160, 151, 0);
+  color: rgba(170, 160, 151, 1);
+  border-radius: 50%;
+  transition-property: background, border-radius;
+  transition-duration: 0.5s, 0.5s;
+  transition-timing-function: ease-in-out;
+  height: 300px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 40px;
+  padding: 25px;
+  cursor: pointer;
+  position: fixed;
+}
+
+.b:hover {
+  background: lightgray;
+  border-radius: 50%;
+  filter: blur(1.5rem);
+}
+
+.c {
+  background: rgba(170, 160, 151, 0);
+  color: rgba(170, 160, 151, 1);
+  border-radius: 50%;
+  transition-property: background, border-radius;
+  transition-duration: 0.5s, 0.5s;
+  transition-timing-function: ease-in-out;
+  height: 300px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 40px;
+  padding: 25px;
+  cursor: pointer;
+  position: fixed;
+}
+
+.c:hover {
+  background: lightgray;
+  border-radius: 50%;
+  filter: blur(1.5rem);
+}
+
+.d {
+  background: rgba(170, 160, 151, 0);
+  color: rgba(170, 160, 151, 1);
+  border-radius: 50%;
+  transition-property: background, border-radius;
+  transition-duration: 0.5s, 0.5s;
+  transition-timing-function: ease-in-out;
+  height: 300px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 40px;
+  padding: 25px;
+  cursor: pointer;
+  position: fixed;
+}
+
+.d:hover {
+  background: lightgray;
+  border-radius: 50%;
+  filter: blur(1.5rem);
+}
+
+.e {
+  background: rgba(170, 160, 151, 0);
+  color: rgba(170, 160, 151, 1);
+  border-radius: 50%;
+  transition-property: background, border-radius;
+  transition-duration: 0.5s, 0.5s;
+  transition-timing-function: ease-in-out;
+  height: 300px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 40px;
+  padding: 25px;
+  cursor: pointer;
+  position: fixed;
+}
+
+.e:hover {
+  background: lightgray;
+  border-radius: 50%;
+  filter: blur(1.5rem);
+}
